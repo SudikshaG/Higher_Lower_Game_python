@@ -1,3 +1,4 @@
+# Data to be imported
 data = [
     {
         'name': 'Instagram',
