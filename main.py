@@ -9,6 +9,7 @@ def get_account():
     return random.choice(data)
 
 def format_account(account):
+    """Gives the information about the celebrity or account owner's information"""
     name = account["name"]
     description = account["description"]
     country = account["country"]
