@@ -3,7 +3,7 @@ import random
 from art import logo, vs
 from game_data import data
 from utils import clear
-
+# the player must guess which celebrity has more number of instagram followers 
 def get_account():
     """Get random account from data"""
     return random.choice(data)
