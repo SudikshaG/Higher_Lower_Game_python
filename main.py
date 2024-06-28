@@ -1,4 +1,4 @@
-
+# the player must guess which celebrity has more number of instagram followers 
 import random
 from art import logo, vs
 from game_data import data
