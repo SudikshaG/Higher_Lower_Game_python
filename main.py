@@ -35,7 +35,7 @@ def game():
         
         while A_account == B_account:
             B_account = get_account()
-        
+        #nested
         print(f"Compare A: {format_account(A_account)}")
         print(vs)
         print(f"Against B: {format_account(B_account)}")
